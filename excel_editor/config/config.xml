@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<paths>
+    <path id="1" type="read">
+        <name>sourceDir</name>
+        <value>..//toolkits//excel_editor//src//main//resources//excel</value>
+        <des>excel资源路径</des>
+    </path>
+    <path id="2" type="write">
+        <name>targetDir</name>
+        <value>..//toolkits//excel_editor//src//main//resources//lua_excel</value>
+        <des>资源解析输出路径</des>
+    </path>
+    <path id="3" type="write">
+        <name>targetDir</name>
+        <value>F://SG//策划文档//21.程序用表</value>
+        <des>公共资源表的目录路径</des>
+    </path>
+</paths>

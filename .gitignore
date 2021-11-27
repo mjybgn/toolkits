@@ -1,0 +1,22 @@
+# Default ignored files
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.lua
+
+/.idea
+/editor.iml
+*/src/main/java/com/ming/module/database
+*/src/main/resources/com/ming/module/database/sanguo
+*/src/main/resources/com/ming/module/database/sanguo_log
+*/src/test
+*/logs
+*/src/main/resources/excel
+*/src/main/resources/lua_excel
+*/target
